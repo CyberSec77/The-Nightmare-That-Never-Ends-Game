@@ -1,3 +1,13 @@
 body {
-    font-family: sans-serif;
+    background-image: url("https://wallpapercave.com/wp/wp6309585.jpg");
+    background-position-x: -200px; 
+}
+
+h1 {
+    font-family: 'East Sea Dokdo', cursive;
+    text-align: center;
+    background: -webkit-linear-gradient(rgb(253, 0, 0), rgb(26, 1, 1)); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
 }
